@@ -1,0 +1,19 @@
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+/* /* custom color/* */
+.navigation{
+    height: 80px;
+} 
+.banner{
+    min-height: calc(100vh - 80px);
+}
+.custom-font{
+    font-family: 'Bebas Neue', cursive;
+}
+.header-color{
+    background-color: #FFF9F4;
+}
+.text-color{
+    color: #FA804C;
+}
